@@ -1,5 +1,5 @@
 # Email-Classification-using-Machine-Learning
- SPAM Emails Prediction model using ML
+ SPAM Email Prediction model using ML
 
 ## Dataset format:
 There are three CSV files: “train.csv”, “test.csv”, and “sample_submission.csv”. The submission format is provided in “sample_submission.csv”. There are four columns in the dataset:
