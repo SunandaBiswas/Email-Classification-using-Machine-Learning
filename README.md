@@ -16,6 +16,3 @@ Question 1.2: Perform necessary preprocessing to sanitize the data and handle pr
 Question 1.3: Prepare a short EDA report on the dataset (with visualizations).
 ##### Question 2: Spam detection
 Question 2.1: Build an intelligent system to detect spam emails. You can use any approach you prefer. However, we encourage you to focus on simplicity and effectiveness. Provide relevant metrics.
-
-## Assessment criteria
-The evaluation process will be holistic. We will focus more on your approach to solving the problem rather than depending on evaluation metrics. We will also focus on the EDA report, code quality, efficiency, etc.
